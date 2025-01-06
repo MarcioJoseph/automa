@@ -25,4 +25,4 @@ O tempo de espera entre as ações (PAUSE) está configurado para 0,5 segundos.
 Certifique-se de que o arquivo “produtos.csv” esteja no mesmo diretório do script.
 Personalize os campos e ações conforme necessário para o sistema específico da empresa.
 
-(Esta é a aula 1 da jornada Python do curso HASHTAG programação).
+(Esta é a aula 1 da jornada Python do curso HASHTAG treinamentos).
